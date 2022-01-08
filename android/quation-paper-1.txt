@@ -1,4 +1,4 @@
-1 mark
+quation - 1(a) 1 Mark
 --------------------------------------
 
 1. apk full form.
@@ -9,11 +9,29 @@
 
 4.
 
-2 mark
+
+quation - 1(b) 2 Mark
 --------------------------------------
 
 1. what is OHA ?
-ans) 
+ans) The open handset allience (OHA) is a business allience of firm to develop open standard for mobile devices.
+- Devoted to advancing open standards for mobile devices.
+- Developed technologies that will significantly lower the cost of developing and distributing
+mobile devices and services.
+- Open handset Allience included several companies:
+Samsung, motorola, vodafone, htc, LG, Dell, asus, acer, docomo, nec, sharp, sony
+ericsion, toshiba, ebay, google, intel, ARM, sprint etc…
 
+
+2.what is sdk in android ?
+ans) Android SDK stands for Android Software Development Kit which is developed by Google for Android Platform. With the help of Android SDK, we can create android Apps easily.
+
+Android SDK is a collection of libraries and Software Development tools that are essential for Developing Android Applications. Whenever Google releases a new version or update of Android Software, a corresponding SDK also releases with it. In the updated or new version of SDK, some more features are included which are not present in the previous version. Android SDK consists of some tools which are very essential for the development of Android Application. These tools provide a smooth flow of the development process from developing and debugging. Android SDK is compatible with all operating systems such as Windows, Linux, macOS, etc.
+
+quation - 1(c) 2 Mark
+--------------------------------------
+
+1.what is intent filter and how it useful in android ?
+ans) 
 
 
